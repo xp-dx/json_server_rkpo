@@ -20,25 +20,6 @@
       "total": 200
     },
     {
-      "id": 2,
-      "userId": 1,
-      "products": [
-        {
-          "id": 3,
-          "title": "Товар 3",
-          "quantity": 3,
-          "price": 30
-        },
-        {
-          "id": 4,
-          "title": "Товар 4",
-          "quantity": 1,
-          "price": 150
-        }
-      ],
-      "total": 240
-    },
-    {
       "id": 3,
       "userId": 1,
       "products": [
