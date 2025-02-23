@@ -1,3 +1,10 @@
 {
-  "carts": []
+  "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [],
+      "total": 0
+    }
+  ]
 }
