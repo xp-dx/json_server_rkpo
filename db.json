@@ -1,12 +1,6 @@
 {
   "carts": [
     {
-      "id": 1,
-      "userId": 1,
-      "products": [],
-      "total": 0
-    },
-    {
       "id": 2,
       "userId": 1,
       "products": [
