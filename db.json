@@ -1,4 +1,17 @@
 {
   "carts": [
+    {
+      "id": 1,
+      "userId": 1,
+      "products": [
+        {
+          "id": 1742202443221,
+          "title": "Gh",
+          "quantity": 1,
+          "price": 5
+        }
+      ],
+      "total": "5.00"
+    }
   ]
 }
